@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name": "Luis Angel",
+    "occupation": "Desarrollador web",
+    "description": "Desarrollador Frontend con Angular y backend con Laravel",
+    "image": "IG_Sonny.jpeg",
+    "bio": "Mi nombre es Luis Angel, Actualmente trabajo en Kerisoft",
+    "contactmessage": "Ponte en contacto conmigo para cualquier servicio.",
+    "email": "luisangelgonzalezcalihua@gmail.com",
+    "phone": "+52 272 572 1411",
+    "address": {
+      "street": "Oriente 5 entre norte 5 y 7 #14",
+      "city": "Ixtaczoquitlán",
+      "state": "Veracruz",
+      "zip": "94460"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Universidad Tecnológica del Centro de Veracruz",
+        "degree": "Ingeniero en tecnologías de la información",
+        "graduated": "Abril 2018",
+        "description": "Titulado"
+      }
+    ],
+    "work": [
+      {
+        "company": "Kerisoft",
+        "title": "Desarrollador frontend",
+        "years": "Mayo 2020 - Presente",
+        "description": "Desarrollador frontend con Angular."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "Laravel",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MariaDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cursos Kerisoft",
+        "category": "Plataforma de cursos(Laravel, Vue, MariaDB)",
+        "image": "cursos-kerisoft.png",
+        "url": "https://kerisoft.tech"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Es una persona muy atenta en lo que hace",
+        "user": "Angel Jimenez Calderon"
+      }
+    ]
+  }
+}
